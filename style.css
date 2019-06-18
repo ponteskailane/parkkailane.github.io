@@ -1,0 +1,10 @@
+.menu{
+  font-family: 'Playfair Display', serif;
+}
+.menu > a{
+  text-decoration: none;
+  color:black;
+}
+.menu > a:visited {
+color:blue;
+}
