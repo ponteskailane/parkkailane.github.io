@@ -11,3 +11,9 @@
 .menu > a:visited {
 color:blue;
 }
+.menu > a:visited {
+color:blue;
+}
+.menu > a:hover {
+color:black;
+}
