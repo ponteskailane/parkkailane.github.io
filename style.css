@@ -1,10 +1,12 @@
 .menu{
   font-family: 'Playfair Display', serif;
+  font-size: 18px;
   text-align: center;
 }
 .menu > a{
   text-decoration: none;
   color:black;
+  margin-right: 20px;
 }
 .menu > a:visited {
 color:blue;
