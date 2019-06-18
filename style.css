@@ -1,5 +1,6 @@
 .menu{
   font-family: 'Playfair Display', serif;
+  text-align: center;
 }
 .menu > a{
   text-decoration: none;
