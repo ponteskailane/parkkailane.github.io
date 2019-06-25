@@ -1,7 +1,14 @@
+.largura {
+  width:700px;
+  margin:auto;
+}
 .menu{
-  font-family: 'Playfair Display', serif;
+font-family: 'Lobster', cursive;
   font-size: 18px;
-  text-align: center;
+  text-align:enter;
+  width:700px;
+  margin:auto;
+  margin-bottom:30px;
 }
 .menu > a{
   text-decoration: none;
@@ -18,7 +25,17 @@ color:blue;
 color:black;
 }
 h1{
- font-family: 'Roboto', sans-serif;
+font-family: 'Caveat', cursive;
  padding-bottom: 5px;
  border-bottom: 2px dotted black;
+
+}
+.conteudo {
+font-family: 'Dancing Script', cursive;
+  line-height: 32px;
+}
+.img principal{
+  float:left;
+  margin-right:20px;
+  margin-bottom:20px;
 }
