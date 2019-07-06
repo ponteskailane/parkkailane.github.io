@@ -24,11 +24,10 @@ color:blue;
 .menu > a:hover {
 color:black;
 }
-h1{
+h1, h2, h3{
 font-family: 'Caveat', cursive;
  padding-bottom: 5px;
  border-bottom: 2px dotted black;
-
 }
 .conteudo {
 font-family: 'Dancing Script', cursive;
